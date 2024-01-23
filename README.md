@@ -16,7 +16,8 @@ The app was created using tkinter
 
  It takes some time for the app to run. 
 
-Draw the digit slowly and as large as possible if wrong digit is predicted draw it smaller, then press recognize digit.
+Draw the digit slowly and as large as possible then press recognize digit.
+If wrong digit is predicted draw it smaller.
 
 the predicted digit is displayed. Click clear canvas to redraw digit
 
